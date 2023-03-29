@@ -5,4 +5,4 @@
 - Used inquierer
 - Added license
 - Generates readme
-- 
+
