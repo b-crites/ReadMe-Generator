@@ -1,6 +1,6 @@
-# 
+# Readme Generator
 
-  [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+  
 
   ## Table of contents
   -[Project Description](#description)
@@ -11,19 +11,21 @@
   -[License](#license)
 
   ## Description
-  
+  This project is made to generate a read me file for projects
 
   ## Usage
-  
+  This is where usage info goes
 
   ## Installation
-  
+  This is where install instructions go
 
   ## Contributing
+  This is where contribution guidelines go
   
-  
+  ## License
+  [License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
   
   ## Questions
   
   
-  If you have any questions contact me on [Github] at (https://github.com/) or email me at .
+  If you have any questions contact me on [Github] at (https://github.com/b-crites) or email me at brandoncrites76@gmail.com.

@@ -55,7 +55,7 @@ function generateMarkdown(data) {
   ${data.installation}
 
   ## Contributing
-  ${data.contributing}
+  ${data.contributions}
   
   ## License
   ${renderLicenseBadge(data.license)}
