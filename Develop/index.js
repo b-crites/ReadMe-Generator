@@ -31,7 +31,7 @@ function init() {
         },
         {
             type: 'input',
-            name: 'contributing',
+            name: 'contributions',
             message: 'Please provide contribution guidelines for your project:',
         },
         {

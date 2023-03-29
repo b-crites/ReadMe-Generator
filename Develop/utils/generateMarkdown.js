@@ -54,7 +54,7 @@ function generateMarkdown(data) {
   ## Installation
   ${data.installation}
 
-  ## Contributing
+  ## Contributions
   ${data.contributions}
   
   ## License
