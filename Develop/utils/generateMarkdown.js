@@ -35,7 +35,7 @@ function renderLicenseSection(license) {
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ${renderLicenseBadge(data.license)}
+  
 
   ## Table of contents
   -[Project Description](#description)
@@ -57,6 +57,8 @@ function generateMarkdown(data) {
   ## Contributing
   ${data.contributing}
   
+  ## License
+  ${renderLicenseBadge(data.license)}
   
   ## Questions
   
